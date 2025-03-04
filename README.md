@@ -42,7 +42,7 @@ Within the virtual machine, I downloaded the osTicket installation file and unzi
 <img src="https://i.imgur.com/fglUThq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I had to enable IIS in windows which would be necessary to execute the rest of the installation process. From the installation folder, I had to install MySQL and execute the setup. Within IIS I enabled some extensions to configure the osTicket browser.
 </p>
 <br />
 
@@ -50,6 +50,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/iC7MB15.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After enabling the required extensions from osTicket, I then had to install HeidiSQL, create a new session, and connect to the session. I continued to set up osTicket utilizing the MySQL database. Finally I was able to browse the help desk login page as an admin and as a end user. 
 </p>
 <br />
